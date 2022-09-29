@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec4e783a-19f0-4cdf-8993-bdb21a8a03d1": {
+      "ProjectGuid": "ec4e783a-19f0-4cdf-8993-bdb21a8a03d1",
+      "DisplayName": "WorkerConsumoAPIContagem",
+      "ColorIndex": 0
+    },
+    "0080b203-c412-428b-9fae-6410a437e544": {
+      "ProjectGuid": "0080b203-c412-428b-9fae-6410a437e544",
+      "DisplayName": "APIContagem",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "689436c8-a162-44af-978b-7e94f7aa19dd": {
+      "ProjectGuid": "689436c8-a162-44af-978b-7e94f7aa19dd",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

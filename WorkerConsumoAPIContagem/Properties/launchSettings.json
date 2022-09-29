@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WorkerConsumoAPIContagem": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "hotReloadEnabled": false,
+      "dotnetRunMessages": "true"
+    }
+  }
+}
